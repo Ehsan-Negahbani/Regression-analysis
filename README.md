@@ -1,7 +1,8 @@
-# Simple-Linear-Regression-Tutorial
-What is simple linear regression? 
+# Regression-Tutorial
 
-In this tutorial we will learn what is simple linear regression.
+
+In this tutorial we will learn examine the performance three regression model in predicting the CO2 emmissions based on three car features. We will evaluate the model performances to decide which model and which feature results in a a more accurate predictive model.
+
 I have included intution behind the model, theoretical backgrounds and Python examples showing how to implement and use this model.
 
 I have used these refrences to produce this tutorial:
